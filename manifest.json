@@ -1,0 +1,19 @@
+{
+    "name": "My Secrya Ad-Blocker",
+    "version": "1.0",
+    "description": "A simple ad-blocker for Secrya.",
+    "permissions": [
+        "webRequest",
+        "webRequestBlocking",
+        "<all_urls>"
+    ],
+    "background": {
+        "scripts": ["background.js"]
+    },
+    "icons": {
+        "16": "icons/logos/logo16x16.png",
+        "48": "icons/logos/logo48x48.png",
+        "128": "icons/logos/logo128x128.png"
+    },
+    "manifest_version": 2
+}
