@@ -4,7 +4,7 @@ A lightweight browser extension that blocks common advertising and tracking requ
 
 ## Overview
 
-- **Name:** My Secrya Ad-Blocker
+- **Name:** My Secyra Ad-Blocker
 - **Version:** 1.0
 - **Manifest:** v2
 - **Background script:** `background.js`
