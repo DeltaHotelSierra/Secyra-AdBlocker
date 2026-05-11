@@ -4,7 +4,7 @@ A lightweight browser extension that blocks common advertising and tracking requ
 
 ## Overview
 
-- **Name:** My Secyra Ad-Blocker
+- **Name:** Secyra AdBlocker
 - **Version:** 1.0
 - **Manifest:** v2
 - **Background script:** `background.js`
@@ -34,8 +34,8 @@ Examples of blocked domains include:
 1. Open your browser’s extensions page (for Chromium-based browsers: `chrome://extensions`).
 2. Enable **Developer mode**.
 3. Click **Load unpacked**.
-4. Select this project directory:
-   `/home/runner/work/Secyra-AdBlocker/Secyra-AdBlocker`
+4. Select your local clone of this project directory
+   (for example: `path/to/Secyra-AdBlocker`).
 
 ## Notes
 
