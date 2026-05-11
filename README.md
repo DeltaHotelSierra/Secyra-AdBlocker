@@ -34,8 +34,7 @@ Examples of blocked domains include:
 1. Open your browser’s extensions page (for Chromium-based browsers: `chrome://extensions`).
 2. Enable **Developer mode**.
 3. Click **Load unpacked**.
-4. Select your local clone of this project directory.
-   (for example: `path/to/Secyra-AdBlocker`).
+4. Select your local clone of this project directory (for example: `path/to/Secyra-AdBlocker`).
 
 ## Notes
 
